@@ -1,5 +1,8 @@
 # Flutter MVP 
+ <img src="https://user-images.githubusercontent.com/29915177/130612412-f4944181-e5e9-4a75-abeb-4843a1c6f2d3.jpg">
+ 
 This repository contains a detailed sample app that implements MVP architecture in Flutter
+
 # Libraries  
 * [Retrofit](https://pub.dev/packages/retrofit)
 * [Retrofit Generator](https://pub.dev/packages/retrofit_generator)
