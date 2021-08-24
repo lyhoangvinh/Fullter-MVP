@@ -1,7 +1,10 @@
-# newtest
+# Flutter MVP 
 
-A new Flutter project.
-
+# Libraries  
+* [Retrofit](https://pub.dev/packages/retrofit)
+* [Retrofit Generator](https://pub.dev/packages/retrofit_generator)
+* [Retrofit Dart](https://github.com/trevorwang/retrofit.dart)
+* [Json Serializable](https://pub.dev/packages/json_serializable)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
