@@ -14,7 +14,7 @@ class HomePresenter extends BasePresenter {
   void getVideos() async {
     isLoading = true;
     await repo.getAll().then((it) {
-      videos = it.response!.videos;
+      videos = it.response?.videos ?? [];
       isLoading = false;
       view?.update();
     }).catchError((Object obj) {
